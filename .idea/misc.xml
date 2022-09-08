@@ -7,9 +7,12 @@
         <entry key="app/src/main/res/drawable/indicator_selected.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/indicator_unselected.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/shape_button.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_intro.xml" value="0.21822916666666667" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19" />
+        <entry key="app/src/main/res/layout/activity_intro.xml" value="0.19" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2669404517453799" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/fragment_intro_dua.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/layout/fragment_intro_satu.xml" value="0.19" />
+        <entry key="app/src/main/res/layout/fragment_intro_tiga.xml" value="0.21822916666666667" />
       </map>
     </option>
   </component>

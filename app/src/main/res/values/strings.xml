@@ -3,4 +3,13 @@
     <string name="mulai">Mulai</string>
     <string name="tentang_aplikasi">Tentang Aplikasi</string>
     <string name="keluar">Keluar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bantuan_fruit_detection">BANTUAN FRUIT DETECTION</string>
+    <string name="tahap_pertama">Tahap Pertama</string>
+    <string name="desc_intro_satu">Mohon Arahkan Kamera Anda ke Arah Buah-Buahan</string>
+    <string name="title_intro_dua">Tahap Kedua</string>
+    <string name="desc_intro_dua">Buah-buahan akan terdeteksi bila diarahkan ke Kamera Anda.</string>
+    <string name="tahap_ketiga">Tahap Ketiga</string>
+    <string name="desc_intro_tiga">Arahkan Kamera Anda untuk menyesuaikan Buah-buahan yang ingin dideteksi.</string>
 </resources>

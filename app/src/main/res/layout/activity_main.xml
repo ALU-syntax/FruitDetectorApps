@@ -4,8 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background"
+    android:background="@color/white"
     tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/iv_mainbg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/background"/>
 
     <ImageView
         android:id="@+id/iv_logomain"
@@ -41,6 +47,7 @@
         android:layout_marginHorizontal="60dp"
         android:text="@string/tentang_aplikasi"
         android:textColor="@color/white"
+        android:elevation="6dp"
         android:background="@drawable/shape_button"/>
 
     <androidx.appcompat.widget.AppCompatButton
@@ -53,6 +60,7 @@
         android:textColor="@color/white"
         android:layout_below="@+id/btn_tentang_aplikasi"
         android:layout_marginTop="15dp"
+        android:elevation="6dp"
         />
 
     <androidx.appcompat.widget.AppCompatImageButton
@@ -64,7 +72,7 @@
         android:src="@drawable/ic_ig"
         android:background="@android:color/transparent"
         android:layout_marginLeft="150dp"
-
+        android:elevation="6dp"
         />
 
     <androidx.appcompat.widget.AppCompatImageButton
@@ -77,6 +85,7 @@
         android:layout_marginLeft="20dp"
         android:src="@drawable/ic_github"
         android:background="@android:color/transparent"
+        android:elevation="6dp"
         />
 
 </RelativeLayout>
